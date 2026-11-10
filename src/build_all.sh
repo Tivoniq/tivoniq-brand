@@ -4,13 +4,14 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 python3 src/build_logo.py
+python3 src/build_academy.py
 python3 src/build_guide.py
 rm -f guidelines/TIVONIQ-logo-guidelines.html
-mkdir -p logo/png previews
-for f in logo/svg/*.svg; do
+mkdir -p logo/png academy/png previews
+for f in logo/svg/*.svg academy/svg/*.svg; do
   n=$(basename "${f%.svg}")
   case $n in *mark*) w=1024 ;; *) w=2400 ;; esac
-  rsvg-convert -w "$w" "$f" -o "logo/png/$n.png"
+  rsvg-convert -w "$w" "$f" -o "$(dirname "$(dirname "$f")")/png/$n.png"
   case $n in
     *-white) bg="#0B2447" ;;
     *) bg="#FFFFFF" ;;

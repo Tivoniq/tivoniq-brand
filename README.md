@@ -9,6 +9,7 @@ The official TIVONIQ logo, redrawn as clean vector geometry. Every file in this 
 ## Contents
 
 - [All versions](#all-versions)
+- [TIVONIQ Academy](#tivoniq-academy)
 - [Which file to use](#which-file-to-use)
 - [Construction](#construction)
 - [Proportions and lockups](#proportions-and-lockups)
@@ -67,6 +68,47 @@ TIVONIQ alone, where the mark already appears nearby.
 |---|---|---|---|
 | <a href="logo/svg/tivoniq-wordmark-color.svg"><img src="previews/tivoniq-wordmark-color.png" alt="Wordmark, full colour" width="200"></a> | <a href="logo/svg/tivoniq-wordmark-navy.svg"><img src="previews/tivoniq-wordmark-navy.png" alt="Wordmark, navy" width="200"></a> | <a href="logo/svg/tivoniq-wordmark-black.svg"><img src="previews/tivoniq-wordmark-black.png" alt="Wordmark, black" width="200"></a> | <a href="logo/svg/tivoniq-wordmark-white.svg"><img src="previews/tivoniq-wordmark-white.png" alt="Wordmark, white" width="200"></a> |
 | [SVG](logo/svg/tivoniq-wordmark-color.svg) · [PNG](logo/png/tivoniq-wordmark-color.png) | [SVG](logo/svg/tivoniq-wordmark-navy.svg) · [PNG](logo/png/tivoniq-wordmark-navy.png) | [SVG](logo/svg/tivoniq-wordmark-black.svg) · [PNG](logo/png/tivoniq-wordmark-black.png) | [SVG](logo/svg/tivoniq-wordmark-white.svg) · [PNG](logo/png/tivoniq-wordmark-white.png) |
+
+## TIVONIQ Academy
+
+<p align="center"><img src="previews/tivoniq-academy-stacked-color.png" alt="TIVONIQ Academy logo" width="380"></p>
+
+The logo for TIVONIQ Academy. It is the TIVONIQ logo, unchanged, with an **ACADEMY** descriptor; the mark, the wordmark, the colours and the spacing all come from `src/build_logo.py`, and [`src/build_academy.py`](src/build_academy.py) only adds the descriptor. Three layouts, four colourways each, in [`academy/svg`](academy/svg) and [`academy/png`](academy/png).
+
+### Stacked (primary)
+
+| Full colour | Navy | Black | White |
+|---|---|---|---|
+| <a href="academy/svg/tivoniq-academy-stacked-color.svg"><img src="previews/tivoniq-academy-stacked-color.png" alt="TIVONIQ Academy stacked, full colour" width="200"></a> | <a href="academy/svg/tivoniq-academy-stacked-navy.svg"><img src="previews/tivoniq-academy-stacked-navy.png" alt="TIVONIQ Academy stacked, navy" width="200"></a> | <a href="academy/svg/tivoniq-academy-stacked-black.svg"><img src="previews/tivoniq-academy-stacked-black.png" alt="TIVONIQ Academy stacked, black" width="200"></a> | <a href="academy/svg/tivoniq-academy-stacked-white.svg"><img src="previews/tivoniq-academy-stacked-white.png" alt="TIVONIQ Academy stacked, white" width="200"></a> |
+| [SVG](academy/svg/tivoniq-academy-stacked-color.svg) · [PNG](academy/png/tivoniq-academy-stacked-color.png) | [SVG](academy/svg/tivoniq-academy-stacked-navy.svg) · [PNG](academy/png/tivoniq-academy-stacked-navy.png) | [SVG](academy/svg/tivoniq-academy-stacked-black.svg) · [PNG](academy/png/tivoniq-academy-stacked-black.png) | [SVG](academy/svg/tivoniq-academy-stacked-white.svg) · [PNG](academy/png/tivoniq-academy-stacked-white.png) |
+
+### Horizontal
+
+| Full colour | Navy | Black | White |
+|---|---|---|---|
+| <a href="academy/svg/tivoniq-academy-horizontal-color.svg"><img src="previews/tivoniq-academy-horizontal-color.png" alt="TIVONIQ Academy horizontal, full colour" width="200"></a> | <a href="academy/svg/tivoniq-academy-horizontal-navy.svg"><img src="previews/tivoniq-academy-horizontal-navy.png" alt="TIVONIQ Academy horizontal, navy" width="200"></a> | <a href="academy/svg/tivoniq-academy-horizontal-black.svg"><img src="previews/tivoniq-academy-horizontal-black.png" alt="TIVONIQ Academy horizontal, black" width="200"></a> | <a href="academy/svg/tivoniq-academy-horizontal-white.svg"><img src="previews/tivoniq-academy-horizontal-white.png" alt="TIVONIQ Academy horizontal, white" width="200"></a> |
+| [SVG](academy/svg/tivoniq-academy-horizontal-color.svg) · [PNG](academy/png/tivoniq-academy-horizontal-color.png) | [SVG](academy/svg/tivoniq-academy-horizontal-navy.svg) · [PNG](academy/png/tivoniq-academy-horizontal-navy.png) | [SVG](academy/svg/tivoniq-academy-horizontal-black.svg) · [PNG](academy/png/tivoniq-academy-horizontal-black.png) | [SVG](academy/svg/tivoniq-academy-horizontal-white.svg) · [PNG](academy/png/tivoniq-academy-horizontal-white.png) |
+
+### Wordmark
+
+| Full colour | Navy | Black | White |
+|---|---|---|---|
+| <a href="academy/svg/tivoniq-academy-wordmark-color.svg"><img src="previews/tivoniq-academy-wordmark-color.png" alt="TIVONIQ Academy wordmark, full colour" width="200"></a> | <a href="academy/svg/tivoniq-academy-wordmark-navy.svg"><img src="previews/tivoniq-academy-wordmark-navy.png" alt="TIVONIQ Academy wordmark, navy" width="200"></a> | <a href="academy/svg/tivoniq-academy-wordmark-black.svg"><img src="previews/tivoniq-academy-wordmark-black.png" alt="TIVONIQ Academy wordmark, black" width="200"></a> | <a href="academy/svg/tivoniq-academy-wordmark-white.svg"><img src="previews/tivoniq-academy-wordmark-white.png" alt="TIVONIQ Academy wordmark, white" width="200"></a> |
+| [SVG](academy/svg/tivoniq-academy-wordmark-color.svg) · [PNG](academy/png/tivoniq-academy-wordmark-color.png) | [SVG](academy/svg/tivoniq-academy-wordmark-navy.svg) · [PNG](academy/png/tivoniq-academy-wordmark-navy.png) | [SVG](academy/svg/tivoniq-academy-wordmark-black.svg) · [PNG](academy/png/tivoniq-academy-wordmark-black.png) | [SVG](academy/svg/tivoniq-academy-wordmark-white.svg) · [PNG](academy/png/tivoniq-academy-wordmark-white.png) |
+
+### Rules
+
+| Element | Rule |
+|---|---|
+| Descriptor | **ACADEMY** in Inter SemiBold caps, converted to outlines |
+| Size | Cap height **half** the wordmark's cap height |
+| Width | Tracked so the descriptor is **exactly as wide as the wordmark** (the tagline's rule) |
+| Spacing | **1t** from the wordmark baseline to the descriptor (the tagline's spacing), scaled with the wordmark in the horizontal lockup |
+| Horizontal | Wordmark cap height **2t**; the two-line block (wordmark + descriptor) is centred on the T–V body, **1.5t** right of the mark |
+| Colour | Descriptor in **teal** `#08B9B2`, the colour of the Q; in one-colour versions everything takes the one colour |
+| Mark | For the Academy's app icon, favicon or avatar use the TIVONIQ mark as it is ([`logo/svg/tivoniq-mark-color.svg`](logo/svg/tivoniq-mark-color.svg)); there is no separate Academy mark |
+
+Clear space is the same as the main logo (**2t**). Minimum widths: stacked **120 px / 25 mm**, horizontal **180 px / 40 mm**, wordmark **120 px / 25 mm**; below those, use the mark alone. Don't set "Academy" in another font, change its colour or spacing, or place it beside the logo yourself: use these files.
 
 ## Which file to use
 
@@ -178,12 +220,16 @@ logo/
   svg/   tivoniq-<layout>-<colour>.svg   20 vector files (layout: mark, wordmark, stacked,
                                          stacked-tagline, horizontal; colour: color, navy, black, white)
   png/   same names, transparent PNG     2400 px wide (marks 1024 px)
+academy/
+  svg/   tivoniq-academy-<layout>-<colour>.svg   12 vector files (layout: stacked, horizontal, wordmark)
+  png/   same names, transparent PNG             2400 px wide
 guidelines/
   TIVONIQ-logo-guidelines.pdf            one-page guidelines sheet (construction, lockups, colour, sizes)
   TIVONIQ-logo-guidelines.png            the same as an image
 previews/                                README thumbnails on a background (not for use)
 src/
   build_logo.py                          the geometry: every dimension, colour and lockup rule
+  build_academy.py                       TIVONIQ Academy: the descriptor and its lockups
   build_guide.py                         the guidelines sheet
   build_all.sh                           rebuilds everything
 ```
